@@ -3,6 +3,6 @@
 int main() {
     int i = 3;
     char a = 'C';
-    std::cout << i << "!.....!" << a;
+    std::cout << a << "!.....!" << i;
     return 0;
 }
