@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     char a, b, c;
-    int d, e, f, i;
+    int d, e, f, i=0;
     cin >> a >> d >> b >> e >> c >> f;
     if(a=='Y'&&d>=37) i++;
     if(b=='Y'&&e>=37) i++;
